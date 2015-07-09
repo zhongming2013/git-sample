@@ -1,2 +1,2 @@
 # git-sample
-sample fot Git
+sample for Git
